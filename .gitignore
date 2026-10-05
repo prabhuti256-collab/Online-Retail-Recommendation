@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+dataset/*.xlsx
+dataset/*.xls
+dataset/*.zip
+
+models/*.pkl
